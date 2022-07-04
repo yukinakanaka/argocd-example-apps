@@ -4,9 +4,7 @@ name: CI
 
 # Controls when the workflow will run
 on:
- release:
-   types:
-    - published
+ push:
    tags:
     - ads-console*
 
