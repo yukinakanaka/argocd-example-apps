@@ -1,5 +1,5 @@
 wordpress:
-  wordpressPassword: foo
+  wordpressPassword: hogehoge
   mariadb:
     db:
       password: bar
